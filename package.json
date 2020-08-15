@@ -1,0 +1,9 @@
+{
+    "name": "socket-quiz-game",
+    "version": "0.0.1",
+    "description": "Socket.IO quiz game",
+    "dependencies": {
+        "express": "^4.17.1",
+        "socket.io": "^2.3.0"
+    }
+}
